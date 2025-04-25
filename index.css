@@ -1,0 +1,27 @@
+.logo{
+  height: 30px;
+  border-radius: 50%;
+}
+
+.me{
+  height: 200px;
+  border-radius: 50%;
+}
+
+.pinyon-script-regular {
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oswald-talk {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.footer{
+background-color: #F62A66;
+}
+
